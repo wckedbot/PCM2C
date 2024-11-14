@@ -2,7 +2,7 @@
 #include <stdint.h>
 #include <string.h>
 //WIP
-void WAV_2_PCM(const char *fileName);
+
 
 void PCM_2_H(const char *pcmFileName, const char *hFileName)
 {
